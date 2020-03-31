@@ -2,4 +2,4 @@
 This is a test
 Making changes to check
 
-New update
+This is the new update
